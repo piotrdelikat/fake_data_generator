@@ -1,0 +1,10 @@
+{
+  "name": "fake_data_generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Piotr Delikat",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
